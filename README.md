@@ -10,10 +10,11 @@ Create a rock paper scissors game which plays better than a human. (Hint: humans
 ## Challenge 3
 Tic Tac Toe
 Write a program that will play Tic Tac Toe. A text/command-line interface is acceptable. The computer must always start the game and the first move must always be the centre. The user will then input their desired move by inputting the row and column they wish to play. The next moves of the computer must then be randomly determined from the set of moves left. When either opponent wins a message must declare the winner and the program should terminate.
-2.2.1 Example
-0 1 2
-A |X| | |
-B | |O| |
-C | | | |
-Computer plays … B1
-Player’s Turn: A0
+
+###2.2.1 Example
+0 1  2 <br />
+A |X| | | <br />
+B | |O| | <br />
+C | | | | <br />
+Computer plays … B1 <br />
+Player’s Turn: A0 <br />
