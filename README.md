@@ -13,8 +13,8 @@ Write a program that will play Tic Tac Toe. A text/command-line interface is acc
 
 ###2.2.1 Example
 0 1  2 <br />
-A |X| | | <br />
+A |X|  | | <br />
 B | |O| | <br />
-C | | | | <br />
+C | |  | | <br />
 Computer plays … B1 <br />
 Player’s Turn: A0 <br />
